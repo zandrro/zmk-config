@@ -18,6 +18,7 @@
         CONF {
             bindings = <&mo 3>;
             key-positions = <11 38>;
+            layers = <0>;
         };
     };
 
