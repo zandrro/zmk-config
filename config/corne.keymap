@@ -68,7 +68,7 @@
             bindings = <
 &kp TAB    &kp EXCL              &kp AT                &kp HASH            &kp DLLR           &kp PRCNT          &kp CARET  &kp AMPS   &kp ASTRK  &kp LPAR  &kp RPAR  &kp BSPC
 &kp LCTRL  &kp C_REWIND          &kp C_PLAY_PAUSE      &kp C_FAST_FORWARD  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP    &kp MINUS  &kp EQUAL  &kp LBKT   &kp RBKT  &kp BSLH  &kp GRAVE
-&kp LSHFT  &kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC  &trans              &trans             &kp C_MUTE         &kp UNDER  &kp PLUS   &kp LBRC   &kp RBRC  &kp PIPE  &kp TILDE
+&kp LSHFT  &kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC  &trans              &trans             &kp C_MUTE         &kp UNDER  &kp PLUS   &kp LT     &kp GT    &kp PIPE  &kp TILDE
                                                        &kp LGUI            &trans             &kp SPACE          &kp RET    &trans     &kp RALT
             >;
 
